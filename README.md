@@ -25,8 +25,12 @@ My path to my data analysis career education
 ## Statistics: 40%
 # Skills Proficiency
 
-## Excel: 50%
-## SQL: 30%
-## Python: 20%
-## Data Visualization: 70%
-## Statistics: 40%
+# Progress Tracker
+
+## Immediate Focus
+- [x] Complete an advanced Excel course
+- [ ] Practice with real-world datasets
+
+## Short-Term Focus
+- [ ] Create GitHub repositories for projects
+
